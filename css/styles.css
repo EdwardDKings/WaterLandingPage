@@ -254,6 +254,14 @@ h2 {
   transition: 0.3s;
 }
 
+.credits {
+  color: #ddd;
+  display: inline-block;
+  margin-bottom: 40px;
+  font-style: italic;
+  text-decoration: none;
+}
+
 .download-btn:hover {
   background-color: #c33934;
   transition: 0.3s;
